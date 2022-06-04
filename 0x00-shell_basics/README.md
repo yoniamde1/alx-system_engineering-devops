@@ -8,3 +8,4 @@
 7.Betty in my first directory | Move the file betty from /tmp/ to /tmp/my_first_directory
 8.Bye bye betty | Delete the file betty.
 9.9. Bye bye My first directory | Delete the directory my_first_directory that is in the /tmp directory.
+10.Back to the future | Write a script that changes the working directory to the previous one.
