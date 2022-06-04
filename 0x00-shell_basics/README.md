@@ -9,3 +9,4 @@
 8.Bye bye betty | Delete the file betty.
 9.9. Bye bye My first directory | Delete the directory my_first_directory that is in the /tmp directory.
 10.Back to the future | Write a script that changes the working directory to the previous one.
+11.Lists | Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden)
